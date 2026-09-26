@@ -1,0 +1,6 @@
+{
+  "name": "ScamBait — Threat Intel & Autonomous Scam-Baiting",
+  "description": "Autonomous cybersecurity defense system: strings scammers along conversationally, extracts actionable threat indicators into a shared blocklist, and scores scam risk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
